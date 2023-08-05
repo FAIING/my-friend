@@ -1,193 +1,58 @@
-class_name: 大佬们
-class_desc: ''
-link_list:
-  - avatar: https://lishisan.top/img/avatar.png
-    description: 此人已被注销
-    link: https://lishisan.top/
-    name: 李十三
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://i.loli.net/2020/04/24/pADyi12KEcV7Yb4.png
-    description: PrAcTiCe
-    link: https://ardor.one
-    name: 回响小站
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/img/custom/avatar.jpg
-    description: Luwang's Blog
-    link: https://myblog.wallleap.cn
-    name: wallleap
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/839777408/tupian/img/head.jpg
-    description: 百学须先立志
-    link: https://nanzx.top
-    name: 阿楠
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg
-    description: 琉璃的医学 & 编程笔记
-    link: https://shoka.lostyu.me
-    name: 優萌初華
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://blog.zhheo.com/img/avatar.png
-    description: 好设计就要多折腾
-    link: https://blog.zhheo.com/
-    name: Heo
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.lovelu.top/img/logo.png
-    description: 追求让人充实，分享让人快乐
-    link: https://blog.lovelu.top
-    name: 满心
-    theme:
-      style: card
-      siteImage: https://api.antmoe.com/api/open/website/lovelu
-  - avatar: https://www.hack-gov.com.cn/img/friend_404.gif
-    description: 海客GO - 爱牟 听着海客的瀛谈
-    link: https://www.hack-gov.com.cn/
-    name: xwcker
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://www.7b3.org/usr/uploads/2020/11/202001071433532cdf29186aa4ad1777f0c558ebcfb525.jpg
-    description: ''
-    link: https://www.7b3.org/
-    name: 柒比叁
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://vkceyugu.cdn.bspapp.com/VKCEYUGU-yuina/488fb4d0-2ec3-11eb-b997-9918a5dda011.png
-    description: 来自某咸鱼的分享
-    link: https://www.shuiao.top
-    name: 水嗷博客
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://img.cdn.nesxc.com/upload/wordpress/bedf33e068e4abe0beceb1d1ab00f99f-150x150.jpg
-    description: 青石落晚巷 故人未还乡
-    link: https://www.imcharon.com/
-    name: Nesxc
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/zc998800/cdn/image/dorcandy.jpg
-    description: 一喵一世界
-    link: https://dorcandy.cn
-    name: 火喵酱
-    feed: https://cat.dorcandy.cn/
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: http://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-    description: 用这生命中的每一秒，给自己一个不后悔的未来
-    link: https://noionion.top/
-    name: 贰猹的小窝
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/lbr77/picbed/img/20210130094246.png
-    description: 当你的天空下起了大雨，那是我在为你炸乌云
-    link: https://blog.stevelbr.top/
-    name: Steve Li's Blog
-    # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
-    banSub: true
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/image/logo.jpg
-    description: 醒亦念卿，梦亦念卿
-    link: https://blog.justlovesmile.top/
-    name: MJ's BLOG
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: >-
-      https://cdn.jsdelivr.net/gh/huyw96/hexo-butterfly-code@v1.0/source/img/myblog.jpg
-    description: 心之所向，素履以往，生如逆旅，一苇以航
-    link: https://www.huyw96.com/
-    name: yaowen-耀文の博客
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://adil.com.cn/img/touxiang.jpg
-    description: 生命不死，折腾不止
-    link: https://adil.com.cn
-    name: Adil
-    # 指定自定义路径
-    feed: https://blog.adil.com.cn/
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://onektas.top/img/avatar.jpg
-    description: 花开如火，也如寂寞
-    link: https://onektas.top/
-    name: Onektas
-    theme:
-      style: default
-      siteImage: https://ih.onektas.top/cover/siteshot.jpg
-  - avatar: >-
-      https://cdn.jsdelivr.net/gh/xiaoliblog/image@6b5e7ef72be1c8973d94e5a9c49accbf775ad820/2021/02/01/c485da031fe0e464d04eaba8a66c4a8f.png
-    description: ''
-    link: https://xiaoliblog.cn/
-    name: 小李博客
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://cdn.jsdelivr.net/gh/realwds/cdn@master/img/20201216165755.jpg
-    description: ''
-    link: https://blog.realwds.com
-    name: realwds's blog
-    theme:
-      style: default
-      siteImage: ''
-  - avatar: https://blog.catrol.cn/img/headIcon.jpg
-    description: ''
-    link: https://blog.catrol.cn/
-    name: 常青园晚
-    theme:
-      style: default
-      siteImage: ''
+- class_name: 大佬们
+  class_desc: 一些大佬
+  flink_style: anzhiyu
+  link_list:
+    - name: 安知鱼
+      hundredSuffix: ""
+      link: https://anzhiy.cn/
+      avatar: https://cdn.jsdelivr.net/gh/FAIING/imgbed@main/blog/202305271534543.jpg
+      descr: 生活明朗，万物可爱
+    - name: Adil
+      hundredSuffix: ""
+      link: https://blog.adil.com.cn
+      avatar: https://tucdn.wpon.cn/2023/04/06/15dbbb2004b44.jpg
+      descr: BW/HANA顾问,BI工程师,数据分析师,数据科学家。
+      topimg: https://tucdn.wpon.cn/2023/04/06/126fba2e88c54.png
+      
+    - name: Akilar
+      hundredSuffix: ""
+      link: https://akilar.top
+      avatar: https://bu.dusays.com/2022/08/14/62f87864834ae.png
+      topimg: /img/acrylic.png
+      descr: 欢迎光临糖果屋
+      rss: /atom.xml
 
-  - avatar: https://gravatar.loli.net/avatar/ba83fa02fc4b2ba621514941307e21be
-    description: 木木木木木大佬
-    link: https://immmmm.com/
-    name: 林木木
-    theme:
-      style: default
-      siteImage: ''
+    - name: 张洪Heo
+      hundredSuffix: ""
+      link: https://blog.zhheo.com
+      avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+      topimg: /img/acrylic.png
+      descr: 分享设计与科技生活
+      rss: /rss.xml
 
-  - avatar: https://s4.ax1x.com/2021/12/11/oTDujJ.jpg
-    description: 记录一枚菜鸟的征程
-    link: https://226yzy.com
-    name: 星空下的YZY
-    theme:
-      style: default
-      siteImage: ''
+    - name: Leonus
+      hundredSuffix: ""
+      link: https://blog.leonus.cn
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
+      topimg: /img/acrylic.png
+      descr: 进一寸有进一寸的欢喜。
+      tag: 技术
+      rss: /atom.xml
 
-  - avatar: https://cdn.jsdelivr.net/gh/emoryhuang/imgbed@master/avatar.png
-    description: Learning everything
-    link: https://emoryhuang.cn/
-    name: EmoryHuang's Blog
-    theme:
-      style: default
-      siteImage: ''
+    - name: 轻笑Chuckle
+      hundredSuffix: ""
+      link: https://www.chuckle.top
+      avatar: https://cdn1.tianli0.top/npm/chuckle-js-css/chuckle/head.webp
+      topimg: /img/acrylic.png
+      descr: 宁静致远,倾尘轻笑
+      tag: 技术
+      rss: /atom.xml
 
-  - avatar: https://moeci.com/images/avatar.png
-    description: The stupid one is me
-    link: https://moeci.com
-    name: yiyun's Blog
-    theme:
-      style: default
-      siteImage: ''
+    - name: Ariasakaの小窝
+      hundredSuffix: ""
+      link: https://yisous.xyz
+      avatar: https://bu.dusays.com/2022/10/22/6352dfd1f3fa3.png
+      topimg: /img/acrylic.png
+      descr: 人有悲欢离合 月有阴晴圆缺
+      tag: 技术
+      rss: /atom.xml
